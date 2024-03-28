@@ -20,6 +20,7 @@ This program automatically backs up your FromSoftware games save files. You can 
 
 1. Open the exe file.
 2. Enter the game code for the game you want to back up.
+
 | Game Code | Game |
 |---|---|
 | 1 | Dark Souls |
