@@ -7,22 +7,19 @@ This program automatically backs up your FromSoftware games save files. You can 
 ## Installation
 
 1. Download the exe file and ini file: https://github.com/uuu00000tw/FromSoftware-Auto-Backup-Tool/releases
-2. Open the ini file and set the save path and backup path.
-3. Open the exe file and enter the game code.
-
-## Usage
-
-1. Open the ini file.
-2. Set the following options:
-
+2. Open the ini file and set the following options.
+3. 
     * `save_path`: The path to the folder where your FromSoftware games are saved.
     * `backup_path`: The path to the folder where you want to store your backups.
     * `interval_minutes`: How often you want to back up your games.
     * `max_saves`: The maximum number of backups to keep.
 
 3. Save the ini file.
-4. Open the exe file.
-5. Enter the game code for the game you want to back up.
+
+## Usage
+
+1. Open the exe file.
+2. Enter the game code for the game you want to back up.
 | Game Code | Game |
 |---|---|
 | 1 | Dark Souls |
