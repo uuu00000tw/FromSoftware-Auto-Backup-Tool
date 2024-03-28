@@ -27,7 +27,7 @@ This program automatically backs up your FromSoftware games save files. You can 
 | 1R | Dark Souls: Remastered |
 | 2 | Dark Souls II |
 | 2S | Dark Souls II: Scholar of the First Sin |
-| 3 | Dark Souls 3 |
+| 3 | Dark Souls III |
 | E | Elden Ring |
 | S | Sekiro: Shadows Die Twice |
 | A | Armored Core VI: FIRES OF RUBICON |
